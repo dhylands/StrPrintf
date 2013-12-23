@@ -1,0 +1,7 @@
+StrXPrintfFunc	KEYWORD1
+
+StrPrintf	KEYWORD2
+vStrPrintf	KEYWORD2
+StrXPrintf	KEYWORD2
+vStrXPrintf	KEYWORD2
+
